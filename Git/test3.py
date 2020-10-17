@@ -9,3 +9,9 @@ def Energy(p,t):
             e
         E = E+e
     return print(str(E/60) + ' Wh') #divide result by 60 to convert to Wh
+
+
+
+    a= 3*5
+    #new change
+    print (a)
